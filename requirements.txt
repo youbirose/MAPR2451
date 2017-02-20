@@ -1,1 +1,1 @@
-./supertb-0.3.3b0-py2-none-any.whl
+supertb-0.3.3b0-py2-none-any.whl
