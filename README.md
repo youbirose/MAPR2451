@@ -21,4 +21,4 @@ You are now ready to run the jupyter notebook :
 ```
 jupypter notebook &
 ```
-The landing page of the Jupyter notebook web application, the dashboard, should show the MAPR2451 notebook that contains the instructions and codes for the tight-binding lab. You may open open it by clicking on its name, **MAPR2451.ipynb .
+The landing page of the Jupyter notebook web application, the dashboard, should show the MAPR2451 notebook that contains the instructions and codes for the tight-binding lab. You may open open it by clicking on its name, *MAPR2451.ipynb* .
