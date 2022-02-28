@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sidubois/MAPR2451/master)
+
 # SuperTB
 Special distribution of Supertb package (v1.0.0.lite) for the purpose of the LMAPR2451 tight-binding lab.
 
