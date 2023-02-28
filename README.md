@@ -16,7 +16,7 @@ conda activate MAPR2451
 ```
 Install the SuperTB package : 
 ```
-pip install supertb-1.0.0-py3-none-any.whl
+pip install supertb-1.0.1-py3-none-any.whl
 ```
 
 You are now ready to run the jupyter notebook :
